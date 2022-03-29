@@ -7,15 +7,21 @@ Ce repository est composée du site sbateliers il faut le lier avec le repositor
 ## Installation
 
 Installation du projet suivateliers
-Rajouter un s à la fin de sbateliers 
 
+⚡️ Avant de cloner , créer un dossier " sbateliers "dans le répertoire /var/www/html/  : 
+
+(ou renommer le repository sbatelier par 'sbateliers' )
 ```bash
-  cd /var/www/html/
-  git clone https://github.com/stellaric/sbatelier.git
-```
-    
+cd /var/www/html/
+git clone https://github.com/stellaric/sbatelier.git
+mkdir sbateliers
+cp -r /var/www/html/sbatelier/* /var/www/html/sbateliers/
+rm -rf sbatelier
+
+``` 
+
 ## 🛠 Langages
-Javascript, HTML, CSS et PHP
+ HTML, CSS et PHP
 
 
 ## Reference Couleur
