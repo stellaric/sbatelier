@@ -1,7 +1,7 @@
 
 # Sbateliers
 
-SbAteliers est une application permettant aux visiteurs de s'enregistrer en tant que nouveau client , et aux clients enregistrés de consulter la liste des ateliers programmés et s'ils le souhaitent , de procéder à leur inscriptio pour y participer .
+SbAteliers est une application permettant aux visiteurs de s'enregistrer en tant que nouveau client , et aux clients enregistrés de consulter la liste des ateliers programmés et s'ils le souhaitent , de procéder à leur inscription pour y participer .
 Ce repository est composée du site sbateliers il faut le lier avec le repository suivateliers .
 
 ## Installation
